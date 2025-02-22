@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on 🌕**Luno**
+ 🔭 I’m currently working on ⌨️**Snipply**
  
  🌱 I’m currently learning **Go**
 
