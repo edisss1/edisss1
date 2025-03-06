@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on 🔒**Vaulta**
  
- 🌱 I’m currently learning **Go**
+ 🌱 I’m currently learning **MERN Stack**
 
 
 
