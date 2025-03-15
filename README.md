@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on 🔒**Vaulta**
+ 🔭 I’m currently working on **zora**
  
  🌱 I’m currently learning **MERN Stack**
 
