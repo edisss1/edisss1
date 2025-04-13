@@ -40,12 +40,12 @@
     <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,go,redux,postman" /><br>
 </div>
 
-<h2 align="center">Top languages</h2>
+<!--<h2 align="center">Top languages</h2>
 <br />
 <div>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edisss1)](https://github.com/anuraghazra/github-readme-stats)
     
-</div>
+</div> -->
 
 <br/>
 <hr/>
