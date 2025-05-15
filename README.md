@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Fiabesco**
  
- 🌱 I’m currently learning **MERN Stack**
+ 🌱 I’m currently learning **Go**
 
 
 
