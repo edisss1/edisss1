@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,express,mongodb,vscode,github,figma,tailwind,git,webstorm" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,go,redux,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,go,redux,postman,postgres" /><br>
 </div>
 
 <!--<h2 align="center">Top languages</h2>
